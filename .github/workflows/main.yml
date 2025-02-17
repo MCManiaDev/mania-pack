@@ -3,6 +3,14 @@ permissions:
 name: resource pack
 on: [push]
 jobs:
+  validate:
+    name: Validate resouce pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Run ResourcePackValidator
+        uses: MrKinau/ResourcePackValidator@v2
   packsquash:
     name: Optimize resource pack
     runs-on: ubuntu-latest
