@@ -11,6 +11,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Run ResourcePackValidator
         uses: MrKinau/ResourcePackValidator@v2
+        with:
+          resourcepack: .
   packsquash:
     name: Optimize resource pack
     runs-on: ubuntu-latest
