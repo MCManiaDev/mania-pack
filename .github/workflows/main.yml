@@ -13,6 +13,7 @@ jobs:
         uses: MrKinau/ResourcePackValidator@v2
         with:
           resourcepack: .
+          config: .github/workflows/configs/ResourcePackValidator.json
   packsquash:
     name: Optimize resource pack
     runs-on: ubuntu-latest

@@ -1,0 +1,70 @@
+{
+    "validators": {
+      "AnyNamespacePresentValidator": {
+        "enabled": true,
+        "logLevel": "WARN"
+      },
+      "ModelIsJsonObjectValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "ModelParentValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "ModelHasAnyTextureValidator": {
+        "enabled": true,
+        "logLevel": "WARN",
+        "ignore": []
+      },
+      "ModelTexturesExistsValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "ModelTextureReferencesResolvableValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "ModelOverridesExistsValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "UnusedFileValidator": {
+        "enabled": true,
+        "logLevel": "WARN",
+        "ignore": [
+            "glob:**/.git/**"
+        ]
+      },
+      "TextureIsNotCorruptedValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "FontTextureExistsValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "FontCharacterUsageValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "InvalidPathValidator": {
+        "enabled": true,
+        "logLevel": "ERROR",
+        "ignore": []
+      },
+      "ModelRequiresOverlayOverrideValidator": {
+        "enabled": false,
+        "logLevel": "ERROR",
+        "required": []
+      }
+    }
+  }
