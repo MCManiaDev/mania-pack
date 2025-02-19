@@ -71,23 +71,5 @@
     "file":"mania:icons/cross.png",
     "ascent":9,"height":10,
     "chars":["\ue010"]
-  },
-  {
-    "type":"bitmap",
-    "file":"mania:icons/gray_cross.png",
-    "ascent":9,"height":10,
-    "chars":["\ue011"]
-  },
-  {
-    "type":"bitmap",
-    "file":"mania:icons/mouse/left_click.png",
-    "ascent":9,"height":10,
-    "chars":["\ue180"]
-  },
-  {
-    "type":"bitmap",
-    "file":"mania:icons/mouse/right_click.png",
-    "ascent":9,"height":10,
-    "chars":["\ue181"]
   }
-  ]}
+]}
