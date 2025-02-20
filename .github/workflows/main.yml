@@ -17,6 +17,7 @@ jobs:
   packsquash:
     name: Optimize resource pack
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
