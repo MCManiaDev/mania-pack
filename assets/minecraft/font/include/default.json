@@ -1,61 +1,61 @@
 {"providers":[{
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/bee.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/rhino.png",
+    "ascent":7,"height":8,
     "chars":["\ue000"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/oyster.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/mice.png",
+    "ascent":7,"height":8,
     "chars":["\ue001"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/dragon.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/tiger.png",
+    "ascent":7,"height":8,
     "chars":["\ue002"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/camel.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/crab.png",
+    "ascent":7,"height":8,
     "chars":["\ue003"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/crab.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/camel.png",
+    "ascent":7,"height":8,
     "chars":["\ue004"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/mice.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/bee.png",
+    "ascent":7,"height":8,
     "chars":["\ue005"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/birb.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/oyster.png",
+    "ascent":7,"height":8,
     "chars":["\ue006"]
   },
   {
     "type":"bitmap",
     "file":"mania:icons/teams/normal/lemur.png",
-    "ascent":9,"height":10,
+    "ascent":7,"height":8,
     "chars":["\ue007"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/rhino.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/birb.png",
+    "ascent":7,"height":8,
     "chars":["\ue008"]
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/tiger.png",
-    "ascent":9,"height":10,
+    "file":"mania:icons/teams/normal/dragon.png",
+    "ascent":7,"height":8,
     "chars":["\ue009"]
   }
 ]}
