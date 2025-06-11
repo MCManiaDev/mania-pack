@@ -254,18 +254,18 @@
     ],
     "subtitle": "voing"
   },
-  "intro": {
-    "category": "ambient",
-    "sounds": [
-      "mania:intro"
-    ],
-    "subtitle": "MC Mania is Starting"
-  },
   "eruption": {
     "category": "ambient",
     "sounds": [
       "mania:eruption"
     ],
     "subtitle": "&5Eruption &r&f&lby Hype26"
+  },
+  "intro": {
+    "category": "ambient",
+    "sounds": [
+      "mania:intro"
+    ],
+    "subtitle": "&5Intro &r&f&lby Hype26"
   }
 }
