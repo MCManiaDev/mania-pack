@@ -254,6 +254,13 @@
     ],
     "subtitle": "voing"
   },
+  "intro": {
+    "category": "ambient",
+    "sounds": [
+      "mania:intro"
+    ],
+    "subtitle": "MC Mania is Starting"
+  },
   "eruption": {
     "category": "ambient",
     "sounds": [
