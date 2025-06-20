@@ -24,7 +24,7 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/camel.png",
+    "file":"mania:icons/teams/normal/capybara.png",
     "ascent":7,"height":8,
     "chars":["\ue005"]
   },
@@ -36,7 +36,7 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:icons/teams/normal/oyster.png",
+    "file":"mania:icons/teams/normal/octopus.png",
     "ascent":7,"height":8,
     "chars":["\ue007"]
   },
