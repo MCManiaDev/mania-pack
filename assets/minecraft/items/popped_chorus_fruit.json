@@ -7,8 +7,12 @@
             "model": "item/popped_chorus_fruit"
         },
         "entries": [
-            {"threshold": 101, "model":{"type": "model","model": "mania:item/green_plus"}},
-            {"threshold": 102, "model":{"type": "model","model": "mania:item/pink_plus"}}
+            {"threshold": 101, "model":{"type": "model","model": "mania:item/powerups/chopchop"}},
+            {"threshold": 102, "model":{"type": "model","model": "mania:item/powerups/beast"}},
+            {"threshold": 103, "model":{"type": "model","model": "mania:item/powerups/healing"}},
+            {"threshold": 104, "model":{"type": "model","model": "mania:item/powerups/evade"}},
+            {"threshold": 105, "model":{"type": "model","model": "mania:item/powerups/shield"}},
+            {"threshold": 106, "model":{"type": "model","model": "mania:item/powerups/float"}}
         ]
     }
 }
