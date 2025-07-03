@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/popped_chorus_fruit"
+        },
+        "entries": [
+            {"threshold": 101, "model":{"type": "model","model": "mania:item/green_plus"}},
+            {"threshold": 102, "model":{"type": "model","model": "mania:item/pink_plus"}}
+        ]
+    }
+}
