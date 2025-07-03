@@ -10,7 +10,10 @@
             {"threshold": 1, "model":{"type": "model","model": "mania:item/games/cc"}},
             {"threshold": 2, "model":{"type": "model","model": "mania:item/games/hgh"}},
             {"threshold": 3, "model":{"type": "model","model": "mania:item/games/pb"}},
-            {"threshold": 4, "model":{"type": "model","model": "mania:item/games/col"}}
+            {"threshold": 4, "model":{"type": "model","model": "mania:item/games/col"}},
+            {"threshold": 100, "model":{"type": "model","model": "mania:item/questeasy"}},
+            {"threshold": 101, "model":{"type": "model","model": "mania:item/questmedium"}},
+            {"threshold": 102, "model":{"type": "model","model": "mania:item/questhard"}}
         ]
     }
 }
