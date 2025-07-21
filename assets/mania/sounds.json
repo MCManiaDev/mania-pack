@@ -267,5 +267,12 @@
       "mania:intro"
     ],
     "subtitle": "&5Intro &r&f&lby Hype26"
+  },
+  "collectors": {
+    "category": "ambient",
+    "sounds": [
+      "mania:collectors"
+    ],
+    "subtitle": "&5Collectors &r&f&lby Hype26"
   }
 }
