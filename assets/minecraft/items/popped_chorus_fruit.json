@@ -12,7 +12,8 @@
             {"threshold": 103, "model":{"type": "model","model": "mania:item/powerups/healing"}},
             {"threshold": 104, "model":{"type": "model","model": "mania:item/powerups/evade"}},
             {"threshold": 105, "model":{"type": "model","model": "mania:item/powerups/shield"}},
-            {"threshold": 106, "model":{"type": "model","model": "mania:item/powerups/float"}}
+            {"threshold": 106, "model":{"type": "model","model": "mania:item/powerups/float"}},
+            {"threshold": 107, "model":{"type": "model","model": "mania:item/powerups/heart"}}   
         ]
     }
 }
