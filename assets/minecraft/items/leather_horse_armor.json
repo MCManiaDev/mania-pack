@@ -11,9 +11,13 @@
             {"threshold": 2, "model":{"type": "model","model": "mania:item/games/hgh"}},
             {"threshold": 3, "model":{"type": "model","model": "mania:item/games/pb"}},
             {"threshold": 4, "model":{"type": "model","model": "mania:item/games/col"}},
+            {"threshold": 50, "model":{"type": "model","model": "mania:item/eng"}},
+            {"threshold": 51, "model":{"type": "model","model": "mania:item/spa"}},
+            {"threshold": 52, "model":{"type": "model","model": "mania:item/fra"}},
             {"threshold": 100, "model":{"type": "model","model": "mania:item/questeasy"}},
             {"threshold": 101, "model":{"type": "model","model": "mania:item/questmedium"}},
-            {"threshold": 102, "model":{"type": "model","model": "mania:item/questhard"}}
+            {"threshold": 102, "model":{"type": "model","model": "mania:item/questhard"}},
+            {"threshold": 103, "model":{"type": "model","model": "mania:item/gear"}}
         ]
     }
 }

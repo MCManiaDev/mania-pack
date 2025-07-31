@@ -274,5 +274,12 @@
       "mania:collectors"
     ],
     "subtitle": "&5Collectors &r&f&lby Hype26"
+  },
+  "ddintense": {
+    "category": "ambient",
+    "sounds": [
+      "mania:ddintense"
+    ],
+    "subtitle": "&5DD Intense &r&f&lby Hype26"
   }
 }
