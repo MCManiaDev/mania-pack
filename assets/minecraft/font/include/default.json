@@ -67,7 +67,7 @@
   {
     "type":"bitmap",
     "file":"mania:icons/bigbox.png",
-    "ascent":112,"height":128,
+    "ascent":14,"height":16,
     "chars":["\ue012"]
   }
 ]}
