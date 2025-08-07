@@ -22,7 +22,7 @@
     "ascent":7,"height":8,
     "chars":["\ue004"]
   },
-  {
+  {	
     "type":"bitmap",
     "file":"mania:icons/teams/normal/capybara.png",
     "ascent":7,"height":8,
@@ -63,5 +63,11 @@
     "file":"mania:icons/box.png",
     "ascent":7,"height":8,
     "chars":["\ue011"]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:icons/bigbox.png",
+    "ascent":7,"height":8,
+    "chars":["\ue012"]
   }
 ]}
