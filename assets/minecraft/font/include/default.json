@@ -57,5 +57,11 @@
     "file":"mania:icons/teams/normal/dragon.png",
     "ascent":7,"height":8,
     "chars":["\ue010"]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:icons/box.png",
+    "ascent":7,"height":8,
+    "chars":["\ue011"]
   }
 ]}
