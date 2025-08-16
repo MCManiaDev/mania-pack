@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mania:icons/games/precisionbuild"
+    "layer0": "mania:item/games/precisionbuild"
   }
 }
