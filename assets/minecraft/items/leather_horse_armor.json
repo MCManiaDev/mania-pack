@@ -1,15 +1,1 @@
-{
-    "model": {
-        "type": "range_dispatch",
-        "property": "custom_model_data",
-        "fallback": {
-            "type": "model",
-            "model": "item/leather_horse_armor"
-        },
-        "entries": [
-            {"threshold": 100, "model":{"type": "model","model": "mania:item/questeasy"}},
-            {"threshold": 101, "model":{"type": "model","model": "mania:item/questmedium"}},
-            {"threshold": 102, "model":{"type": "model","model": "mania:item/questhard"}}
-        ]
-    }
-}
+{"model":{"type":"range_dispatch","property":"custom_model_data","fallback":{"type":"model","model":"item/leather_horse_armor"},"entries":[{"threshold":100,"model":{"type":"model","model":"mania:item/questeasy"}},{"threshold":101,"model":{"type":"model","model":"mania:item/questmedium"}},{"threshold":102,"model":{"type":"model","model":"mania:item/questhard"}}]}}
