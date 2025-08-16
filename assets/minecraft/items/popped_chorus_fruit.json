@@ -7,12 +7,6 @@
             "model": "item/popped_chorus_fruit"
         },
         "entries": [
-            {"threshold": 1, "model":{"type": "model","model": "mania:item/games/cloudclashers"}},
-            {"threshold": 2, "model":{"type": "model","model": "mania:item/games/collectors"}},
-            {"threshold": 3, "model":{"type": "model","model": "mania:item/games/dinerdash"}},
-            {"threshold": 4, "model":{"type": "model","model": "mania:item/games/hideandhunt"}},
-            {"threshold": 5, "model":{"type": "model","model": "mania:item/games/precisionbuild"}},
-            {"threshold": 6, "model":{"type": "model","model": "mania:item/games/sumosmash"}},
             {"threshold": 101, "model":{"type": "model","model": "mania:item/powerups/chopchop"}},
             {"threshold": 102, "model":{"type": "model","model": "mania:item/powerups/beast"}},
             {"threshold": 103, "model":{"type": "model","model": "mania:item/powerups/healing"}},
