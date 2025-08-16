@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"mania:icons/games/collectors"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"mania:item/games/collectors"}}
