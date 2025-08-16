@@ -10,9 +10,6 @@
             {"threshold": 1, "model":{"type": "model","model": "mania:icons/games/cloudclashers"}},
             {"threshold": 2, "model":{"type": "model","model": "mania:icons/games/hideandhunt"}},
             {"threshold": 3, "model":{"type": "model","model": "mania:icons/games/precisionbuild"}},
-            {"threshold": 4, "model":{"type": "model","model": "mania:icons/games/collectors"}},
-            {"threshold": 5, "model":{"type": "model","model": "mania:icons/games/dinerdash"}},
-            {"threshold": 6, "model":{"type": "model","model": "mania:icons/games/sumosmash"}},
             {"threshold": 100, "model":{"type": "model","model": "mania:item/questeasy"}},
             {"threshold": 101, "model":{"type": "model","model": "mania:item/questmedium"}},
             {"threshold": 102, "model":{"type": "model","model": "mania:item/questhard"}}
