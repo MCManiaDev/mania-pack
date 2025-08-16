@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "mania:item/team/lilac_lemurs"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"mania:item/team/lilac_lemurs"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "mania:item/cover"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"mania:item/cover"}}
