@@ -1,1 +1,238 @@
-{"providers":[{"type":"bitmap","file":"mania:icons/teams/normal/rhino.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/mice.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/tiger.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/crab.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/capybara.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/bee.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/octopus.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/lemur.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/birb.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/teams/normal/dragon.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/box.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/cloudclashers.png","ascent":14,"height":16,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/collectors.png","ascent":14,"height":16,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/dinerdash.png","ascent":14,"height":16,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/hideandhunt.png","ascent":14,"height":16,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/precisionbuild.png","ascent":14,"height":16,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/sumosmash.png","ascent":14,"height":16,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/cloudclashers.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/collectors.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/dinerdash.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/hideandhunt.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/precisionbuild.png","ascent":7,"height":8,"chars":[""]},{"type":"bitmap","file":"mania:icons/games/sumosmash.png","ascent":7,"height":8,"chars":[""]}]}
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/rhino.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/mice.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/tiger.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/crab.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/capybara.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/bee.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/octopus.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/lemur.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/birb.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/teams/normal/dragon.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/box.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/cloudclashers.png",
+            "ascent": 14,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/collectors.png",
+            "ascent": 14,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/dinerdash.png",
+            "ascent": 14,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/hideandhunt.png",
+            "ascent": 14,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/precisionbuild.png",
+            "ascent": 14,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/sumosmash.png",
+            "ascent": 14,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/cloudclashers.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/collectors.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/dinerdash.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/hideandhunt.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/precisionbuild.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/games/sumosmash.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/frame.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": [
+                "税"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/effects_marks.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": [
+                "美羊大好國词"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/stain.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": [
+                "典"
+            ]
+        }
+    ]
+}
