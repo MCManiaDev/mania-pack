@@ -1,1 +1,111 @@
-{"providers":[{"type":"space","advances":{"➂":7,"➀":7," ":3}},{"type":"bitmap","file":"mania:icons/player/aqua.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/blue.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/gray.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/green.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/lime.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/orange.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/pink.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/purple.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/red.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/player/yellow.png","ascent":9,"height":10,"chars":[""]},{"type":"bitmap","file":"mania:icons/cross.png","ascent":9,"height":10,"chars":[""]}]}
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "➂": 7,
+                "➀": 7,
+                " ": 3
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/aqua.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/blue.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/gray.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/green.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/lime.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/orange.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/pink.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/purple.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/red.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/player/yellow.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mania:icons/cross.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                ""
+            ]
+        }
+    ]
+}
