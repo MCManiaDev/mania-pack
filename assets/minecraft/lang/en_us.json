@@ -1,1 +1,6 @@
-{"soundCategory.music":"§c§lTURN THIS OFF","soundCategory.voice":"§a§lEvent Music","soundCategory.ambient":"§a§lGame Music","soundCategory.players":"§a§lSound Effects (SFX)"}
+{
+  "soundCategory.music":   "§c§lTURN THIS OFF",
+  "soundCategory.voice":   "§a§lEvent Music",
+  "soundCategory.ambient": "§a§lGame Music",
+  "soundCategory.player":  "§a§lSound Effects (SFX)"
+}
