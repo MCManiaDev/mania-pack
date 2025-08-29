@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/lilacdice",
-		"particle": "block/lilacdice"
+		"0": "mania/textures/item/lilacdice",
+		"particle": "mania/textures/item/lilacdice"
 	},
 	"elements": [
 		{

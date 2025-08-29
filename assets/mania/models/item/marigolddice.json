@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/marigolddice",
-		"particle": "block/marigolddice"
+		"0": "mania/textures/item/marigolddice",
+		"particle": "mania/textures/item/marigolddice"
 	},
 	"elements": [
 		{
