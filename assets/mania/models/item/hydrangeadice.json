@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mania/textures/item/hydrangeadice",
-		"particle": "mania/textures/item/hydrangeadice"
+		"0": "mania:item/hydrangeadice",
+		"particle": "mania:item/hydrangeadice"
 	},
 	"elements": [
 		{
