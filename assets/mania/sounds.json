@@ -238,5 +238,10 @@
     "category": "ambient",
     "sounds": ["mania:ddchill"],
     "subtitle": "§5DD Chill §r§f§lby Hype26"
+  },
+  "ddchill": {
+    "category": "ambient",
+    "sounds": ["mania:spaceboard"],
+    "subtitle": "§5Partyboard §r§f§lby Hype26"
   }
 }
