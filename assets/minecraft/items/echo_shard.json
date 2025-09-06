@@ -9,7 +9,8 @@
         "entries": [
             {"threshold": 1, "model":{"type": "model","model": "mania:item/powerups/heart"}},
             {"threshold": 2, "model":{"type": "model","model": "mania:item/icons/cross"}},
-            {"threshold": 3, "model":{"type": "model","model": "mania:item/icons/dash"}}
+            {"threshold": 3, "model":{"type": "model","model": "mania:item/icons/dash"}},
+            {"threshold": 144, "model":{"type": "model","model": "mania:item/icons/bonus"}}
         ]
     }
 }
