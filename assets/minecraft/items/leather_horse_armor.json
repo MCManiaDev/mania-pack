@@ -1,1 +1,25 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","fallback":{"type":"model","model":"item/leather_horse_armor"},"entries":[{"threshold":100,"model":{"type":"model","model":"mania:item/questeasy"}},{"threshold":101,"model":{"type":"model","model":"mania:item/questmedium"}},{"threshold":102,"model":{"type":"model","model":"mania:item/questhard"}}]}}
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/leather_horse_armor"
+        },
+        "entries": [
+            {"threshold": 1, "model":{"type": "model","model": "mania:item/team/rhino"}},
+            {"threshold": 2, "model":{"type": "model","model": "mania:item/team/mice"}},
+            {"threshold": 3, "model":{"type": "model","model": "mania:item/team/tiger"}},
+            {"threshold": 4, "model":{"type": "model","model": "mania:item/team/crab"}},
+            {"threshold": 5, "model":{"type": "model","model": "mania:item/team/capybara"}},
+            {"threshold": 6, "model":{"type": "model","model": "mania:item/team/honeybee"}},
+            {"threshold": 7, "model":{"type": "model","model": "mania:item/team/octopi"}},
+            {"threshold": 8, "model":{"type": "model","model": "mania:item/team/lilac"}},
+            {"threshold": 9, "model":{"type": "model","model": "mania:item/team/begonia"}},
+            {"threshold": 10, "model":{"type": "model","model": "mania:item/team/dragon"}},
+            {"threshold": 100, "model":{"type": "model","model": "mania:item/questeasy"}},
+            {"threshold": 101, "model":{"type": "model","model": "mania:item/questmedium"}},
+            {"threshold": 102, "model":{"type": "model","model": "mania:item/questhard"}}
+        ]
+    }
+}
