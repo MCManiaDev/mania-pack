@@ -8,8 +8,8 @@
         },
         "entries": [
             {"threshold": 1, "model":{"type": "model","model": "mania:item/dinerdash/notepad"}},
-            {"threshold": 2, "model":{"type": "model","model": "mania:item/icons/candy"}},
-            {"threshold": 3, "model":{"type": "model","model": "mania:item/icons/chocolate"}}
+            {"threshold": 2, "model":{"type": "model","model": "mania:item/dinerdash/candy"}},
+            {"threshold": 3, "model":{"type": "model","model": "mania:item/dinerdash/chocolate"}}
         ]
     }
 }
