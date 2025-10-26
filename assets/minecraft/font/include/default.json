@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/rhino.png",
+            "file": "mania:icons/teams/christmas/rhino.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/mice.png",
+            "file": "mania:icons/teams/christmas/mice.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -20,7 +20,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/tiger.png",
+            "file": "mania:icons/teams/christmas/tiger.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/crab.png",
+            "file": "mania:icons/teams/christmas/crab.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -38,7 +38,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/capybara.png",
+            "file": "mania:icons/teams/christmas/capybara.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -47,7 +47,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/bee.png",
+            "file": "mania:icons/teams/christmas/bee.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -56,7 +56,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/octopus.png",
+            "file": "mania:icons/teams/christmas/octopus.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -65,7 +65,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/lemur.png",
+            "file": "mania:icons/teams/christmas/lemur.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -74,7 +74,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/birb.png",
+            "file": "mania:icons/teams/christmas/birb.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -83,7 +83,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/dragon.png",
+            "file": "mania:icons/teams/christmas/dragon.png",
             "ascent": 7,
             "height": 8,
             "chars": [
