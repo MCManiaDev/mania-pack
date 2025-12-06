@@ -243,5 +243,20 @@
     "category": "ambient",
     "sounds": ["mania:spaceboard"],
     "subtitle": "§5Partyboard §r§f§lby Hype26"
+  },
+  "sumosmash": {
+    "category": "ambient",
+    "sounds": ["mania:sumosmash"],
+    "subtitle": "§5Sumo Smash §r§f§lby Hype26"
+  },
+  "alert": {
+    "category": "ambient",
+    "sounds": ["mania:alert"],
+    "subtitle": "§5Alert Noise"
+  },
+  "bouncepad": {
+    "category": "ambient",
+    "sounds": ["mania:bouncepad"],
+    "subtitle": "§5boing"
   }
 }
