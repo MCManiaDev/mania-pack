@@ -258,5 +258,10 @@
     "category": "ambient",
     "sounds": ["mania:bouncepad"],
     "subtitle": "§5boing"
+  },
+  "poopoo": {
+    "category": "ambient",
+    "sounds": ["mania:poopoo"],
+    "subtitle": "§5who tooted."
   }
 }
