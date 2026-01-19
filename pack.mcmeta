@@ -1,7 +1,7 @@
 {
   "pack": {
-    "min_format": 69,
-    "max_format": 69,
-    "description": "Mania-Pack (updated for Minecraft 1.21.10)"
+    "description": "Mania Party Texturepack",
+    "min_format": 68,
+    "max_format": 75
   }
 }
