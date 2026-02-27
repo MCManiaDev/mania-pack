@@ -1,6 +1,1 @@
-{
-"model": {
-    "type": "minecraft:model",
-    "model": "mania:item/cactusdice"
-  }
-}
+{"model":{"model":"mania:item/cactusdice","type":"minecraft:model"}}

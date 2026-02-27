@@ -1,6 +1,1 @@
-{
-"model": {
-    "type": "minecraft:model",
-    "model": "mania:item/hydrangeadice"
-  }
-}
+{"model":{"model":"mania:item/hydrangeadice","type":"minecraft:model"}}
