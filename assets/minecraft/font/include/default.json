@@ -38,7 +38,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mania:icons/teams/normal/capybara.png",
+            "file": "mania:icons/teams/collab/capybara.png",
             "ascent": 7,
             "height": 8,
             "chars": [
